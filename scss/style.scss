@@ -1,62 +1,63 @@
-// - - css-burrito v1.5 | mit license | github.com/jasonreece/css-burrito
+// - - Website Template 
+// - - Author: Dmitry Minyaylov
 
 // - - - - - - - - - - - - - - - - - - -
 // - - application.scss
-// contains an import section for libs, core, and modules, the inbox,
+// contains an import section for libs, core, layout, and modules, the inbox,
 // and a shame section for quick fixes and hacks.
 
 
 // - - - - - - - - - - - - - - - - - - -
 // - - libs
-// add css frameworks and libraries here.
-// be sure to load them after the variable overrides file
-// if you want to change variable values.
-
-// - - variable overrides for sass libraries
-// @import "libs/library-variable-overrides";
 
 // - - reset - normalize.css v3.0.2
-@import "../bower_components/normalize-scss/_normalize.scss";
-@import "libs/bootstrap"; 
-@import "libs/google-open-sans"; 
+// @import "../bower_components/normalize-scss/_normalize";
+// @import "../bower_components/font-awesome/scss/font-awesome";
+// @import "libs/bootstrap"; 
+// @import "libs/library-variable-overrides"; 
+
 
 // - - - - - - - - - - - - - - - - - - -
 // - - core
 
-// - - core/settings
-// @font-face declarations, variables
-@import "core/settings";
+@import "core/variables";
 
-// - - core/utilities
 // extends, functions, and mixins
 @import "core/utilities";
 
-// - - core/base
 // base-level tags (body, p, etc.)
 @import "core/base";
 
-// - - core/layout
 // margin, padding, sizing
 @import "core/layout";
 
-// - - core/skin
 // backgrounds, borders, box-shadow, etc
 @import "core/skin";
 
-// - - core/typography
 // fonts and colors
 @import "core/typography";
 
-// - - core/grid
-@import "core/grid"; 
+@import "core/theme"; 
 
+// - - - - - - - - - - - - - - - - - - -
+// - - layout
+
+@import "layout/grid"; 
+@import "layout/header"; 
+@import "layout/footer"; 
+@import "layout/sidebar";
+
+// - - - - - - - - - - - - - - - - - - -
+// - - pages
+
+//@import "pages/home";
 
 // - - - - - - - - - - - - - - - - - - -
 // - - modules
 // add new modules to the modules/_modules.scss file and they'll get pulled in here.
+
 @import "modules/modules";
 
-@import "modules/construction"; 
 // - - - - - - - - - - - - - - - - - - -
 // - - inbox
 // the inbox allows developers, and those not actively working on the project

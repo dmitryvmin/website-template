@@ -1,0 +1,1017 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-family: "
+			],
+			[
+				"back",
+				"background: "
+			],
+			[
+				"ba",
+				"background: "
+			],
+			[
+				"marg",
+				"margin-bottom: "
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"generic",
+				"genericPoemMaker"
+			],
+			[
+				"guess",
+				"guessNumber"
+			],
+			[
+				"arra",
+				"arrayValue"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"relative",
+				"relative_assets"
+			],
+			[
+				"prefer",
+				"preferred_syntax"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"welcome",
+				"welcome-container"
+			],
+			[
+				"backgr",
+				"background-color: "
+			],
+			[
+				"text-",
+				"text-transform: "
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"margin",
+				"margin-bottom: "
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"comm",
+				"comm-block	Comment - Block style comment"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"thumb",
+				"thumb_name"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"white",
+				"white-bg"
+			],
+			[
+				"bla",
+				"black-font"
+			],
+			[
+				"dropdow",
+				"dropdown-menu"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/Obafemi Martins/website/package.json",
+			"settings":
+			{
+				"buffer_size": 610,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Obafemi Martins/website/bower.json",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Obafemi Martins/website/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1178,
+				"line_ending": "Windows",
+				"name": "var gulp = require('gulp'),"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Obafemi Martins/website/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 1824,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Obafemi Martins/website/scss/libs/_google-open-sans.scss",
+			"settings":
+			{
+				"buffer_size": 1341,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Obafemi Martins/website/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 30826,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Obafemi Martins/website/scss/modules/_construction.scss",
+			"settings":
+			{
+				"buffer_size": 811,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Obafemi Martins/website/css/style.css",
+			"settings":
+			{
+				"buffer_size": 26053,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Obafemi Martins/website/index.html",
+			"settings":
+			{
+				"buffer_size": 899,
+				"line_ending": "Windows",
+				"name": "<!DOCTYPE html>"
+			}
+		}
+	],
+	"build_system": "Packages/User/Node.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Node"
+			],
+			[
+				"subl",
+				"SublimeREPL: Node"
+			],
+			[
+				"sub",
+				"SublimeREPL: Node"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: Node"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/Obafemi Martins/website",
+		"/C/wamp/www/Obafemi Martins/website/bower_components/bootstrap-sass-official/assets",
+		"/C/wamp/www/Obafemi Martins/website/bower_components/bootstrap-sass-official/assets/stylesheets",
+		"/C/wamp/www/Obafemi Martins/website/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap",
+		"/C/wamp/www/Obafemi Martins/website/css",
+		"/C/wamp/www/Obafemi Martins/website/scss",
+		"/C/wamp/www/Obafemi Martins/website/scss/core",
+		"/C/wamp/www/Obafemi Martins/website/scss/libs",
+		"/C/wamp/www/Obafemi Martins/website/scss/modules"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/Obafemi Martins/website/scss/libs/_bootstrap.scss",
+		"/C/wamp/www/Obafemi Martins/website/scss/core/_typography.scss",
+		"/C/wamp/www/Obafemi Martins/website/bower.json",
+		"/C/wamp/www/Obafemi Martins/website/scss/core/_grid.scss",
+		"/C/wamp/www/Obafemi Martins/website/css/style.css",
+		"/C/wamp/www/Obafemi Martins/website/.bowerrc",
+		"/C/wamp/www/Obafemi Martins/website/style.css",
+		"/C/wamp/www/Obafemi Martins/website/scss/libs/_library-variable-overrides.scss",
+		"/C/wamp/www/Obafemi Martins/website/scss/libs/_normalize.scss",
+		"/C/wamp/www/Obafemi Martins/website/scss/style.scss",
+		"/C/wamp/www/Obafemi Martins/website/style.min.css",
+		"/C/wamp/www/Obafemi Martins/website/package.json",
+		"/C/wamp/www/DVMcreative/Responsive Frameworks/susy-proj1/tools.html",
+		"/C/wamp/www/DVMcreative/JavaScript/JS with Jon Duckett/resources/index.html",
+		"/C/wamp/www/DVMcreative/JavaScript/Udacity - Object Oriented JS/Lesson 4/run.js",
+		"/C/wamp/www/DVMcreative/JavaScript/Udacity - Object Oriented JS/Lesson 4/library.js",
+		"/C/wamp/www/DVMcreative/JavaScript/JS with Jon Duckett/c01/add-content.js",
+		"/C/wamp/www/DVMcreative/JavaScript/javascript-tuts/tut-1.html",
+		"/C/wamp/www/DVMcreative/JavaScript/javascript-proj/project-2 form validation/project-2.js",
+		"/C/wamp/www/DVMcreative/JavaScript/javascript-proj/project-1/project-1.html",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/NetSuite-Services-download.html",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/download-thankyou.html",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/index.html",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/thankyou.html",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/sections/_title.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/layout/_forms.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/vendor/_colorbox.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/old-css/styles.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/components/_buttons.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/base/_typography.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/base/_base.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/sections/_section.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/components/_icons.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/sections/_review.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/sections/_awards.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/helpers/_variables.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/vendor/_bootstrap.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/helpers/_mixins.scss",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/Issaquah Eye Care/ali1.1.txt",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/workbench.txt",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/old-css/styles.css",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/components/_getquote.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/sections/_about.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/layout/_footer.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/sections/_column.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/sections/_lastline.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/original files/index.html",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/original files/css/styles-ty.css",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/original files/css/animation.css",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/original files/css/ie.css",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/original files/css/styles.css",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/original files/css/nivo-theme.css",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/original files/css/nivo-slider.css",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/original files/css/1140.css",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/js/jquery.colorbox.js",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/style.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/components/_title.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/components/_section.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/components/_column.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/components/_awards.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/style.css",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/css/sass/old-css/styles-ty.scss",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/original files/js/css3-mediaqueries.js",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/src/js/main.js",
+		"/C/wamp/www/Explore Consulting/Corporate - Landing Page/new files/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss",
+		"/C/Users/Dmitry/Desktop/wc-script.js",
+		"/C/Users/Dmitry/Documents/Enghouse/enghouse.com/index.html",
+		"/C/wamp/www/DVMcreative/Web Tools/responsive-frameworks/javascript-proj/project-2 form validation/project-2.js",
+		"/C/wamp/www/JavaScript practice/rock paper scissors/rock-paper-scissors.js",
+		"/C/wamp/www/Project Files/Safeharbor - SS - XAP.sublime-workspace",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/wamp/www/DVMcreative/Web Tools/responsive-frameworks/javascript-proj/project-1.html",
+		"/C/wamp/www/DVMcreative/Web Tools/responsive-frameworks/susy-tuts/tut-1.html",
+		"/C/wamp/www/DVMcreative/Web Tools/responsive-frameworks/susy.html",
+		"/C/wamp/www/DVMcreative/Web Tools/tools.html",
+		"/C/wamp/www/Wire/index.html",
+		"/C/wamp/www/Wire/scss/main.scss",
+		"/C/wamp/www/Wire/css/main.css",
+		"/C/wamp/www/Wire/config.rb",
+		"/C/wamp/www/Wire/scss/main.scss.scss",
+		"/C/wamp/www/Wire - my responsive framework/index.html",
+		"/C/wamp/www/Wire - my responsive framework/config.rb",
+		"/C/wamp/www/Wire - my responsive framework/scss/_susy.scss",
+		"/C/wamp/www/Compass_Susy_2/Susy Project/sass/screen.scss",
+		"/C/wamp/www/Compass_Susy_2/Susy Project/config.rb",
+		"/C/wamp/www/Compass_Susy_2/Susy Project/sass/_base.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/customers/XAP/BS Theme 2/public/main.css",
+		"/C/wamp/www/Safeharbor - SmartSupport/customers/XAP/BS Theme 2/src/sass/layout/_footer.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/customers/XAP/BS Theme 2/src/sass/pages/_home.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/customers/XAP/BS Theme 2/src/sass/main.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/customers/XAP/BS Theme 2/src/sass/layout/_content.scss",
+		"/C/Users/Dmitry/Documents/Projects/wpbootstrap.safeharbor/workspace/workspace 101714.sublime-workspace",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/main.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/components/_rating.scss",
+		"/C/wamp/www/Ben Newnam/src/workspace/workspace 101714.sublime-workspace",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/components/_buttons.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/components/_tsg.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/css/main.css",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/layout/_footer.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/components/_editor.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/layout/_forms.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/components/_toggle.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/helpers/_mixins.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/base/_typography.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/components/_comments.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/components/_search.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/layout/_sidebar.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/layout/_content.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/base/_base.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/src/sass/base/_reset.scss",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/index-old.html",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/theme-js-old.js",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/article-old.html",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/article.html",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/theme.html",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/index.html",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/search-new.html",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/dddd.js",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/theme-old2.js",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/article2.html",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/search.html",
+		"/C/wamp/www/Safeharbor - SmartSupport/public/theme-old.js",
+		"/C/wamp/www/EI_2.0/stylesheets/jquery.mmenu.css",
+		"/C/wamp/www/EI_2.0/javascripts/jquery.mmenu.min.js",
+		"/C/wamp/www/EI_2.0/sass/pages/_home.scss",
+		"/C/wamp/www/EI_2.0/sass/layout/_nav.scss"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")\n",
+			"img-res",
+			"../bower",
+			"/..",
+			"bower_components",
+			"colorbox",
+			"=\"",
+			"img",
+			"container .sec",
+			"container .section-t",
+			"container.pu",
+			"5",
+			"container.pu",
+			"header-i",
+			"btn",
+			"contact-form la",
+			"contact-for",
+			"xs",
+			"review-box",
+			"contact-f",
+			"punchline.a",
+			"form",
+			"punchlin",
+			"sticky",
+			"get-q",
+			"get-quote",
+			"colorb",
+			"popu",
+			"container.n",
+			"review-b",
+			"review",
+			"last-l",
+			"copyright",
+			"div",
+			"clearfix",
+			"components",
+			"NetSuite",
+			"hidden",
+			"download-con",
+			".download",
+			"download",
+			"{\n",
+			"section-title",
+			"y-explore",
+			"punchline",
+			"top-lo",
+			"row",
+			"container",
+			"110px",
+			"punchlin",
+			"\n@",
+			"var myDog = new Dog(\"Bark\", 100);\nconsole.log(myDog);",
+			"console",
+			"home-page",
+			"body",
+			"import",
+			"navbar-nav",
+			"compass",
+			"navbar-nav",
+			"page-intr",
+			"preve",
+			"forum-reply-link",
+			"forum-reply-li",
+			"forum-reply-f",
+			"forum-reply-l",
+			"reply",
+			"alert",
+			"warning",
+			"sidebar",
+			"tsg",
+			"editor",
+			"table",
+			"auto",
+			";\n",
+			"\";\n",
+			"breadcrumb",
+			"bread",
+			"forum-post-l",
+			"value",
+			"label",
+			"topic",
+			"label",
+			"alert-err",
+			"comment-cont",
+			"modal",
+			"30px",
+			"warn ",
+			"warn",
+			"note",
+			"post-t",
+			"m-j",
+			"tsg",
+			".fa ",
+			"fa ",
+			"footer",
+			"navbar-nav > l",
+			"navbar>",
+			"navbar >",
+			"comment-con",
+			"forum-topic",
+			"reply",
+			"forums",
+			"span",
+			" $",
+			"left",
+			"\n}",
+			"left",
+			"stat_value",
+			"stat_label",
+			"span",
+			"depth",
+			"navbar",
+			"footer",
+			"footer ",
+			"footer",
+			"navbar-default .navbar",
+			"25px",
+			"folder-clo",
+			"glyp",
+			"30px",
+			"navb",
+			"navb	",
+			"navb",
+			"mini",
+			"article",
+			"\n#",
+			".button",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"respond"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/Obafemi Martins/website/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/Obafemi Martins/website/bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp/www/Obafemi Martins/website/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var gulp = require('gulp'),",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/Obafemi Martins/website/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 11.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/wamp/www/Obafemi Martins/website/scss/libs/_google-open-sans.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								775,
+								775
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/wamp/www/Obafemi Martins/website/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp/www/Obafemi Martins/website/scss/modules/_construction.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/wamp/www/Obafemi Martins/website/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25195,
+								25195
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16841.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/wamp/www/Obafemi Martins/website/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								798,
+								798
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE html>",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 285.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "March 24, 2015.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

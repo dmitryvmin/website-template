@@ -1,7 +1,7 @@
 // Core variables and mixins
 @import "../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/variables";
 // Overriding default Bootstrap variables 
-@import "core/settings"; 
+@import "libs/library-variable-overrides"; 
 @import "../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins";
 
 // Reset and dependencies
